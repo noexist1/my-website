@@ -84,6 +84,12 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+         
+          /*algolia: {
+            apiKey: ,
+            indexName: ,
+            appId: 
+          },*/
         ],
       },
       footer: {
