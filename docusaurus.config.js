@@ -13,7 +13,7 @@ const config = {
   favicon: 'src/img/logo.ico',
 
   // Set the production url of your site here
-  url: 'https://https://github.com/noexist1/my-website.ru',
+  url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -85,7 +85,7 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
-
+          
           /*algolia: {
             apiKey: ,
             indexName: ,
