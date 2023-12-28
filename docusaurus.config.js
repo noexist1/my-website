@@ -13,7 +13,7 @@ const config = {
   favicon: 'src/img/logo.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://https://github.com/noexist1/my-website.ru',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -79,12 +79,13 @@ const config = {
             label: 'О проекте',
           },
           {to: '/blog', label: 'Документация', position: 'left'},
+          {to: '/api', label: 'API', position: 'left'},
           {
             href: 'https://github.com/noexist1/Genshin_project',
             label: 'GitHub',
             position: 'right',
           },
-         
+
           /*algolia: {
             apiKey: ,
             indexName: ,
